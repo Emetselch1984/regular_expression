@@ -29,3 +29,4 @@ text.scan(reg5)
 pattern6 = /クープ.?バ[ゲケ]ット/
 reg6 = Regexp.new(pattern6)
 text.scan(reg6)
+
